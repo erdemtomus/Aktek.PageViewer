@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" AlwaysForceInstall="TRUE" Description="Erdem.Viewer4Pages Feature" Id="2b26aa2a-f31b-437e-9b7b-2a0148ae5578" Scope="Site" Title="Erdem.Viewer4Pages Feature1">
+  <ElementManifests>
+    <ElementManifest Location="Viewer4Pages\Elements.xml" />
+    <ElementFile Location="Viewer4Pages\Viewer4Pages.webpart" />
+  </ElementManifests>
+</Feature>

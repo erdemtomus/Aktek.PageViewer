@@ -1,0 +1,5 @@
+C:\Projects\Aktek.Webparts\Aktek.WebpartsSLN\Aktek.PageViewer\bin\Debug\Aktek.Viewer4Pages.dll
+C:\Projects\Aktek.Webparts\Aktek.WebpartsSLN\Aktek.PageViewer\bin\Debug\Aktek.Viewer4Pages.pdb
+C:\Projects\Aktek.Webparts\Aktek.WebpartsSLN\Aktek.PageViewer\obj\Debug\Aktek.Viewer4Pages.dll
+C:\Projects\Aktek.Webparts\Aktek.WebpartsSLN\Aktek.PageViewer\obj\Debug\Aktek.Viewer4Pages.pdb
+C:\Projects\Aktek.Webparts\Aktek.WebpartsSLN\Aktek.PageViewer\obj\Debug\Aktek.Viewer4Pages.csprojResolveAssemblyReference.cache

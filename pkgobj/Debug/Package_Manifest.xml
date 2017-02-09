@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="dc29fd73-630c-4115-82e9-7fa915482f00" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="Aktek.Viewer4Pages.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Aktek.Viewer4Pages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9e7b62c840dc8300" Namespace="Aktek.Viewer4Pages.Viewer4Pages" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Aktek.Viewer4Pages\Viewer4Pages\Viewer4PagesUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="Aktek.Viewer4Pages_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

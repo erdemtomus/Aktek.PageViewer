@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="dc29fd73-630c-4115-82e9-7fa915482f00" solutionId="dc29fd73-630c-4115-82e9-7fa915482f00" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="Erdem.Viewer4Pages">
+    <features>
+        <featureReference itemId="2b26aa2a-f31b-437e-9b7b-2a0148ae5578" />
+    </features>
+</package>

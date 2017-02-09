@@ -1,0 +1,7 @@
+C:\Projects\MossIstWP\Erdem.Viewer4Pages\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\MossIstWP\Erdem.Viewer4Pages\obj\Debug\Erdem.Viewer4Pages.dll
+C:\Projects\MossIstWP\Erdem.Viewer4Pages\obj\Debug\Erdem.Viewer4Pages.pdb
+C:\Projects\Erdem\Erdem.WebpartsSLN\Erdem.Viewer4Pages\bin\Debug\Erdem.Viewer4Pages.dll
+C:\Projects\Erdem\Erdem.WebpartsSLN\Erdem.Viewer4Pages\bin\Debug\Erdem.Viewer4Pages.pdb
+C:\Projects\Erdem\Erdem.WebpartsSLN\Erdem.Viewer4Pages\obj\Debug\Erdem.Viewer4Pages.dll
+C:\Projects\Erdem\Erdem.WebpartsSLN\Erdem.Viewer4Pages\obj\Debug\Erdem.Viewer4Pages.pdb
